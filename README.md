@@ -40,6 +40,22 @@
 
 > 这个仓库每天都在自动更新数据——欢迎 **Star** ⭐ 支持，也欢迎提 Issue / 建议！
 
+### 🎯 resume-matcher · 简历 vs JD 匹配分析器
+> 上传简历 + 粘贴岗位描述 → 输出**可解释**的匹配报告：匹配分数、命中/缺失技能、改进建议、扣分理由（带原文证据）。
+
+```
+Streamlit · LLM 结构化打分(JSON) · 规则引擎兜底(离线可用) · PDF/DOCX/TXT/MD 解析 · 8 个单元测试
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiguzi502&repo=resume-matcher&theme=transparent&hide_border=true" width="420" />
+</p>
+
+[![GitHub Stars](https://img.shields.io/github/stars/guiguzi502/resume-matcher?style=social)](https://github.com/guiguzi502/resume-matcher)
+[![GitHub Forks](https://img.shields.io/github/forks/guiguzi502/resume-matcher?style=social)](https://github.com/guiguzi502/resume-matcher)
+
+> 考研人自己写的求职工具——"我自己就用得上"是最诚实的 README。欢迎 **Star** ⭐！
+
 ---
 
 ## 🔭 现在在做什么
