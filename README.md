@@ -56,12 +56,45 @@ Streamlit · LLM 结构化打分(JSON) · 规则引擎兜底(离线可用) · PD
 
 > 考研人自己写的求职工具——"我自己就用得上"是最诚实的 README。欢迎 **Star** ⭐！
 
+### ⚙️ control-lab · 控制系统在线仿真器
+> 不用装 MATLAB，打开网页拖滑块调 PID，实时看阶跃响应、Bode、Nyquist、根轨迹。
+
+```
+纯 numpy/scipy 手写 · 传递函数代数 · SMO 无关的 PID 整定 · 4 种输入信号 · 37 个单元测试
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiguzi502&repo=control-lab&theme=transparent&hide_border=true" width="420" />
+</p>
+
+[![GitHub Stars](https://img.shields.io/github/stars/guiguzi502/control-lab?style=social)](https://github.com/guiguzi502/control-lab)
+[![GitHub Forks](https://img.shields.io/github/forks/guiguzi502/control-lab?style=social)](https://github.com/guiguzi502/control-lab)
+
+> 内置我本科自控实验的直流电机模型（Kp=3/Ki=15/Kd=0.05/N=100），参数原样搬进来对照。
+
+### 🔬 pattern-lab · 模式识别算法实验台
+> 全部算法从零手写，**零 sklearn 依赖**。SVM + SMO 自己实现，严格收敛至 KKT 满足。
+
+```
+7 个经典数据集 · 6 种分类算法 · 决策边界可视化 · Parzen 窗 / Fisher / PCA · ROC/AUC · 62 个单元测试
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiguzi502&repo=pattern-lab&theme=transparent&hide_border=true" width="420" />
+</p>
+
+[![GitHub Stars](https://img.shields.io/github/stars/guiguzi502/pattern-lab?style=social)](https://github.com/guiguzi502/pattern-lab)
+[![GitHub Forks](https://img.shields.io/github/forks/guiguzi502/pattern-lab?style=social)](https://github.com/guiguzi502/pattern-lab)
+
+> 手写一遍 SMO 之后，才真的明白"支持向量"是什么意思——只有 α>0 的样本影响决策面。
+
 ---
 
 ## 🔭 现在在做什么
 
 - 📚 **考研备考中**：数学一、信号与系统、英语（目标 2028 电子信息硕士）
 - 🛠 折腾**数据小项目**：天气采集、可视化、自动化流水线
+- 🧪 手写**课程算法**：控制系统仿真、模式识别分类器（不用现成库，为了真懂）
 - 🤖 玩转 **AI 工具链**：让 AI 当我的开发搭子
 
 ## 📈 GitHub 数据
